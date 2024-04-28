@@ -1,8 +1,8 @@
 <?php
 
 $servername="localhost";
-$username = "webMan";
-$password = "Byteiq123$";
+$username = "lamp_usr";
+$password = "Nepal123@";
 $db = "ecommerce"; //do not change
 
 // Create connection
